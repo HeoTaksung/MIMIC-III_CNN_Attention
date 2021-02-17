@@ -14,7 +14,8 @@
         *  Enhanced Convolutional Attention network for Multi-Label classification (EnCAML)
         
 ----------------------------------------
-
+  * MIMIC-III dataset requires permission, so I used other data here.
+  
   * [Data](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data) : Toxic Comment Classification Challenge
 
   * Label : toxic, severe_toxic, obscene, threat, insult and identity_hate
