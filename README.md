@@ -23,6 +23,6 @@
         
 ----------------------------------------
 
-  * Model Structure (CAML)
+  * [Model Structure](https://github.com/HeoTaksung/MIMIC-III_CNN_Attention/blob/main/CAML_image.png) (CAML)
 
     ![CAML](https://github.com/HeoTaksung/MIMIC-III_CNN_Attention/blob/main/CAML_image.png)
