@@ -27,3 +27,11 @@
   * [Model Structure](https://github.com/HeoTaksung/MIMIC-III_CNN_Attention/blob/main/CAML_image.png) (CAML)
 
     ![CAML](https://github.com/HeoTaksung/MIMIC-III_CNN_Attention/blob/main/CAML_image.png)
+
+----------------------------------------
+
+  * Result
+  
+    * CAML - Accuracy: 0.375298, Loss: 0.05890
+    * SWAM_CAML - Accuracy: 0.758930, Loss: 0.058690
+    * EnCAML - Accuracy: 0.874107, Loss: 0.052360
